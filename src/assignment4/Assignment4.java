@@ -113,9 +113,9 @@ public class Assignment4 {
 
 /*
 run:
-Words found: 54
-Words not found: 992086
-Average number of comparisons found: 27
-Average number of comparisons not found: 28
-BUILD SUCCESSFUL (total time: 39 seconds)
+Words found: 937492
+Words not found: 54648
+Average number of comparisons found: 468746
+Average number of comparisons not found: 441326
+BUILD SUCCESSFUL (total time: 4 minutes 57 seconds)
 */
